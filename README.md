@@ -9,8 +9,7 @@ Emoji Converter is a simple JavaScript package that converts text representation
 You can install this package via npm:
 
 ```bash
-npm install emoji-converter
-```
+npm i emojietor```
 
 ## Usage
 
