@@ -1,0 +1,11 @@
+{
+  "name": "emoji_converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Emoji Converter is a simple JavaScript package that converts text representations of emojis to their corresponding emoji characters."
+}
